@@ -1,9 +1,7 @@
 # Ask-for-a-Date-to-Crush-to-go-out
- Ask for a Date to Crush | Impress Crush | rising lamp
+ Ask for a Date to Crush | Impress Crush | rising5.guru
 
   live website : https://rising5-guru.github.io/Ask-for-a-Date-to-Crush-to-go-out
-
-  replit repo : https://replit.com/@RisingLamp/Ask-for-a-Date-to-Crush-to-go-out?v=1
 
   demo : 
 
